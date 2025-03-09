@@ -29,4 +29,5 @@ You can check out the live version of this Weather Forecasting Website here:
 - **Other Files** – Includes animated GIFs for weather conditions, a favicon, and additional assets.
 
 ## Mobile View
-[Watch Video](https://github.com/Divyaratnam/Projects/blob/main/WeatherWebsite/MobileView.mp4)
+![Screenrecording](https://drive.google.com/file/d/1tgC3dTN0rv2-VLZVut7CNySo9vsnCm-H/view?usp=drive_link)
+
