@@ -27,10 +27,10 @@ The cloud setup includes:
 🔹 **Event-Driven & Messaging Services**  
 - **Amazon SNS** for event-driven notifications  
 
----
 
 ## **Architecture Diagram**  
-![Architecture]("D:\Awsimg.png")
+![Image Description](https://github.com/Divyaratnam/Projects/blob/main/Cloud_infrastructure/Awsimg.png)
+
 
 ## **Setup Steps**  
 ### **1. Creating a Virtual Private Cloud (VPC)**  
@@ -60,7 +60,6 @@ The cloud setup includes:
 - Configured **CloudWatch Dashboards** to monitor EC2 performance  
 - Set up **SNS** for system alerts  
 
----
 
 ## **Testing & Validation**  
 ✔️ Checked web server response using **EC2 public IP**  
@@ -70,18 +69,7 @@ The cloud setup includes:
 ✔️ Tested **S3 file access & EFS storage mounting**  
 ✔️ Monitored **VPC Flow Logs for network traffic**  
 
----
-
 ## **Conclusion**  
 This project successfully establishes a **secure, scalable, and high-availability cloud infrastructure using AWS**. By implementing **VPC, EC2, S3, Auto Scaling, Load Balancer, IAM, and monitoring services**, we ensure **optimized performance, security, and cost-efficiency** for cloud-based applications.  
 
----
 
-## **Author**  
-🚀 **[Your Name]**  
-📧 [Your Email]  
-🔗 [Your LinkedIn/GitHub Profile]  
-
----
-
-This **README.md** provides a structured overview of your project. Let me know if you need modifications! 🚀
