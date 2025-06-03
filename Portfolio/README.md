@@ -1,6 +1,6 @@
 ## 💼 Personal Portfolio
 Welcome to my personal portfolio website! This site showcases my skills, projects, certifications, and contact information.
-🔗 **Live Website**: [https://divya-p-portfolio.netlify.app](https://divya-p-portfolio.netlify.app)
+🔗 **Live Website**: [Portfolio](https://divya-p-portfolio.netlify.app)
 
 ---
 
