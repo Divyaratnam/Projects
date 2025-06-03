@@ -37,7 +37,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 📸 Screenshots
 
 <!-- You can add image links or relative paths -->
-![Home Page](public/screenshot.png)
+![Home Page](public/Screenshot.png)
 
 ---
 
