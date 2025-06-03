@@ -59,6 +59,6 @@ RHCSA Certified | Python, C++, Java Enthusiast
 📫 **Connect with me**:  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pottipothu-divya-ratnam-40b397260/)  
 - 💻 [GitHub](https://github.com/Divyaratnam)  
-- ✉️ [divyapottipothu@gmail.com](mailto:divyapottipothu@gmail.com)
+- ✉️ [Email](mailto:divyapottipothu@gmail.com)
 
 ---
