@@ -1,6 +1,6 @@
 ## 💼 Personal Portfolio
 Welcome to my personal portfolio website! This site showcases my skills, projects, certifications, and contact information.
-🔗 **Live Website**: [https://your-portfolio-link.netlify.app](https://your-portfolio-link.netlify.app)
+🔗 **Live Website**: [https://divya-p-portfolio.netlify.app](https://divya-p-portfolio.netlify.app)
 
 ---
 
@@ -37,8 +37,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 📸 Screenshots
 
 <!-- You can add image links or relative paths -->
-![Home Page](assets/screenshot-home.png)
-![Projects Section](assets/screenshot-projects.png)
+![Home Page](public/screenshot.png)
 
 ---
 
@@ -53,13 +52,13 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## 👨‍💻 About Me
 
-**[Your Full Name]**  
+**Pottipothu Divya Ratnam**  
 B.Tech in Information Technology  
 RHCSA Certified | Python, C++, Java Enthusiast  
 
 📫 **Connect with me**:  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 💻 [GitHub](https://github.com/yourusername)  
-- ✉️ [youremail@example.com](mailto:youremail@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pottipothu-divya-ratnam-40b397260/)  
+- 💻 [GitHub](https://github.com/Divyaratnam)  
+- ✉️ [divyapottipothu@gmail.com](mailto:divyapottipothu@gmail.com)
 
 ---
